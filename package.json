@@ -1,0 +1,26 @@
+{
+    "name": "7x",
+    "displayName": "7x",
+    "description": "You Never Seen this type of high level customized theme",
+    "version": "0.0.3",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "publisher": "7x",
+    "license": "GPLv3",
+    "author": {
+        "name": "Urmil Rupareliya"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "7x",
+                "uiTheme": "vs-dark",
+                "path": "./themes/7x-color-theme.json"
+            }
+        ]
+    }
+}
