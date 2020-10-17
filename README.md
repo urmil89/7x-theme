@@ -1,16 +1,16 @@
-# 7x -Coding
+# Coding Gujju Theme
 
 > A dark color scheme inspired by Wimer Hazenberg's Monokai theme.
 
-![screenshot](https://raw.githubusercontent.com/urmil89/7x-theme/master/images/7x-html.png)
+![screenshot](https://raw.githubusercontent.com/urmil89/coding-gujju-theme/master/images/7x-html.png)
 
-![screenshot](https://raw.githubusercontent.com/urmil89/7x-theme/master/images/7x-css.png)
+![screenshot](https://raw.githubusercontent.com/urmil89/coding-gujju-theme/master/images/7x-css.png)
 
-![screenshot](https://raw.githubusercontent.com/urmil89/7x-theme/master/images/7x-javascript.png)
+![screenshot](https://raw.githubusercontent.com/urmil89/coding-gujju-theme/master/images/7x-javascript.png)
 
-![screenshot](https://raw.githubusercontent.com/urmil89/7x-theme/master/images/7x-php.png)
+![screenshot](https://raw.githubusercontent.com/urmil89/coding-gujju-theme/master/images/7x-php.png)
 
-![screenshot](https://raw.githubusercontent.com/urmil89/7x-theme/master/images/7x-python.png)
+![screenshot](https://raw.githubusercontent.com/urmil89/coding-gujju-theme/master/images/7x-python.png)
 
 ## Color Palette
 
@@ -41,7 +41,7 @@ Launch *Quick Open*:
 Paste the following command and press `Enter`:
 
 ```shell
-ext install 7x
+ext install Coding Gujju Theme
 ```
 
 Pick the theme by author **Urmil Rupareliya** (me).
@@ -49,7 +49,7 @@ Pick the theme by author **Urmil Rupareliya** (me).
 #### Packaged VSIX Extension
 
 ```shell
-code --install-extension 7x-theme-latest.vsix
+code --install-extension coding-gujju-theme.vsix
 ```
 
 or from within VS Code by launching *Quick Open* and running the *Install from VSIX...* command.
@@ -62,10 +62,10 @@ Open your `.vscode/extensions` directory. Depending on your platform, it is loca
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> **macOs** `~/.vscode/extensions`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> **Windows** `%USERPROFILE%\.vscode\extensions`
 
-Clone the 7x theme repository as `urmil89.7x-theme` into that directory:
+Clone the Coding-Gujju theme repository as `urmil89.Coding-Gujju-theme` into that directory:
 
 ```shell
-git clone https://github.com/urmil89/7x-theme
+git clone https://github.com/urmil89/Coding-Gujju-theme
 ```
 
 ## Activate theme
@@ -76,4 +76,4 @@ Launch *Quick Open*:
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
 
-Type `theme`, choose `Preferences: Color Theme`, and select 7x -Coding from the list.
+Type `theme`, choose `Preferences: Color Theme`, and select Coding Gujju from the list.
