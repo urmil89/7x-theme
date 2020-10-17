@@ -1,18 +1,30 @@
 {
     "name": "7x",
-    "displayName": "7x",
+    "displayName": "Codding Gujju",
     "description": "You Never Seen this type of high level customized theme",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.18.0"
     },
-    "publisher": "7x",
+    "publisher": "Coding Gujju",
     "license": "GPLv3",
     "author": {
         "name": "Urmil Rupareliya"
     },
     "categories": [
         "Themes"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#1e2424",
+        "theme": "dark"
+    },
+    "keywords": [
+        "polykai",
+        "monokai",
+        "dark",
+        "color",
+        "theme"
     ],
     "contributes": {
         "themes": [
