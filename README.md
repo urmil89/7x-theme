@@ -2,7 +2,15 @@
 
 > A dark color scheme inspired by Wimer Hazenberg's Monokai theme.
 
-![screenshot](https://raw.githubusercontent.com/urmil89/7x-theme/master/images/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/urmil89/7x-theme/master/images/7x-html.png)
+
+![screenshot](https://raw.githubusercontent.com/urmil89/7x-theme/master/images/7x-css.png)
+
+![screenshot](https://raw.githubusercontent.com/urmil89/7x-theme/master/images/7x-javascript.png)
+
+![screenshot](https://raw.githubusercontent.com/urmil89/7x-theme/master/images/7x-php.png)
+
+![screenshot](https://raw.githubusercontent.com/urmil89/7x-theme/master/images/7x-python.png)
 
 ## Color Palette
 
